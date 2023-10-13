@@ -34,7 +34,7 @@ I've worked on numerous projects. While many are closed source, some of them are
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashyies&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashyies)](https://github.com/Hashyies/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashyies&theme=radical)](https://github.com/Hashyies/github-readme-stats)
 
 ## 🌐 Connect with me
 
