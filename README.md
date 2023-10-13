@@ -27,8 +27,8 @@ Currently studying in the International Baccalaureate (IB) program.
 
 I've worked on numerous projects. While many are closed source, some of them are open source and available for everyone to see:
 
-1. [MediaRoulette](#): A project that randomly scrapes media of various locations!.
-2. [ChemEngine](#): A Chemistry engine with a lot of capability, including simulation and APIs for use in different applications.
+1. [MediaRoulette](https://github.com/Hashyies/MediaRoulette): A project that randomly scrapes media of various locations!.
+2. [ChemEngine](#): A Chemistry engine with a lot of capability, including simulation and APIs for use in different applications. (Currently private)
 
 ## 📈 GitHub Stats
 
